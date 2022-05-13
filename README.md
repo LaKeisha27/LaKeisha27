@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaKeisha27
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
